@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <charts>522cf9622f406010e6aba85df699b673</charts>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-27 06:56:59</sys_created_on>
+        <sys_id>553e31a62f406010e6aba85df699b6d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>char demo</sys_name>
+        <sys_package display_value="demo" source="x_441412_demo">00f3f9a62f006010e6aba85df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo">00f3f9a62f006010e6aba85df699b6f7</sys_scope>
+        <sys_update_name>sys_sg_chart_section_553e31a62f406010e6aba85df699b6d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-27 06:56:59</sys_updated_on>
+        <table/>
+        <title>char demo</title>
+        <type>report</type>
+        <visible_condition/>
+    </sys_sg_chart_section>
+</record_update>

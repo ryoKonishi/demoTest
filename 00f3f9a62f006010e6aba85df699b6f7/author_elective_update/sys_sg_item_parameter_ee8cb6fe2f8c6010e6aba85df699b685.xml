@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>biko2</name>
+        <parent>141cbafe2f8c6010e6aba85df699b65b</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 06:07:56</sys_created_on>
+        <sys_id>ee8cb6fe2f8c6010e6aba85df699b685</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>biko2</sys_name>
+        <sys_package display_value="demo" source="x_441412_demo">00f3f9a62f006010e6aba85df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo">00f3f9a62f006010e6aba85df699b6f7</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_ee8cb6fe2f8c6010e6aba85df699b685</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 06:07:56</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="demo">00f3f9a62f006010e6aba85df699b6f7</application>
+        <file_path/>
+        <instance_id>3ab5fff0db03ff0007072f17d496191d</instance_id>
+        <instance_name>dev90237</instance_name>
+        <name>sys_sg_item_parameter_ee8cb6fe2f8c6010e6aba85df699b685</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>biko2</name><parent>141cbafe2f8c6010e6aba85df699b65b</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-28 06:07:56</sys_created_on><sys_id>ee8cb6fe2f8c6010e6aba85df699b685</sys_id><sys_mod_count>0</sys_mod_count><sys_name>biko2</sys_name><sys_package display_value="demo" source="x_441412_demo">00f3f9a62f006010e6aba85df699b6f7</sys_package><sys_policy/><sys_scope display_value="demo">00f3f9a62f006010e6aba85df699b6f7</sys_scope><sys_update_name>sys_sg_item_parameter_ee8cb6fe2f8c6010e6aba85df699b685</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-28 06:07:56</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>942171675</payload_hash>
+        <record_name>biko2</record_name>
+        <reverted_from/>
+        <source>c8f375ae2f006010e6aba85df699b60b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 06:07:56</sys_created_on>
+        <sys_id>109cbefe2f8c6010e6aba85df699b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1756dd1eec60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 06:07:56</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>589cbefe8a8c60108c5ff8271f68232b</update_guid>
+        <update_guid_history>589cbefe8a8c60108c5ff8271f68232b:942171675</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 06:36:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>1f819d09b5794f209a16e22c1ff8ae40</sys_id>
+        <sys_metadata>ee8cb6fe2f8c6010e6aba85df699b685</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>biko2</sys_name>
+        <sys_package display_value="demo" source="x_441412_demo">00f3f9a62f006010e6aba85df699b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="demo">00f3f9a62f006010e6aba85df699b6f7</sys_scope>
+        <sys_scope_delete display_value="">73dcae5e2caa4d78896b2b11d454e5c4</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_ee8cb6fe2f8c6010e6aba85df699b685</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_ee8cb6fe2f8c6010e6aba85df699b685">109cbefe2f8c6010e6aba85df699b62c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 06:36:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

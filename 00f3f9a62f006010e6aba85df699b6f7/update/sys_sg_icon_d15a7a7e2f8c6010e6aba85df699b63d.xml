@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons-buttons","FontColor":"#ffffff","BackgroundColor":"#2e2e2e","Value":"e919","Name":"icon-Information-Solid"}</icon>
+        <name>icon-Information-Solid</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 05:58:09</sys_created_on>
+        <sys_id>d15a7a7e2f8c6010e6aba85df699b63d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Information-Solid</sys_name>
+        <sys_package display_value="demo" source="x_441412_demo">00f3f9a62f006010e6aba85df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo">00f3f9a62f006010e6aba85df699b6f7</sys_scope>
+        <sys_update_name>sys_sg_icon_d15a7a7e2f8c6010e6aba85df699b63d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 05:58:09</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

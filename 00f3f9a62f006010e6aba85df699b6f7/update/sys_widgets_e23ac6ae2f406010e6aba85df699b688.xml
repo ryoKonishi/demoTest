@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_widgets">
+    <sys_widgets action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>demo wwidget</name>
+        <order>100</order>
+        <renderer/>
+        <renderer_type>javascript</renderer_type>
+        <roles/>
+        <script><![CDATA[function sections() {
+    return {
+        'widget_name': { 'uiPageName' : 'demo ui page'},
+    };
+}
+
+function render() {
+    var uiPageName = renderer.getPreferences().get("uiPageName");
+    return renderer.getRenderedPage(uiPageName);
+}
+
+function getEditLink() {
+    var uiPageName = renderer.getPreference('uiPageName');
+    return 'sys_ui_page.do?sysparm_query=' + encodeURIComponent('name=' + uiPageName);
+}]]></script>
+        <sys_class_name>sys_widgets</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-27 07:49:52</sys_created_on>
+        <sys_id>e23ac6ae2f406010e6aba85df699b688</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>demo wwidget</sys_name>
+        <sys_package display_value="demo" source="x_441412_demo">00f3f9a62f006010e6aba85df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo">00f3f9a62f006010e6aba85df699b6f7</sys_scope>
+        <sys_update_name>sys_widgets_e23ac6ae2f406010e6aba85df699b688</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-27 07:51:16</sys_updated_on>
+        <top_level_category>false</top_level_category>
+    </sys_widgets>
+</record_update>

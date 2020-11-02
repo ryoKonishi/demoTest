@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>case</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 06:00:36</sys_created_on>
+        <sys_id>01eababe2f8c6010e6aba85df699b6d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>case</sys_name>
+        <sys_package display_value="demo" source="x_441412_demo">00f3f9a62f006010e6aba85df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo">00f3f9a62f006010e6aba85df699b6f7</sys_scope>
+        <sys_update_name>sys_sg_data_item_01eababe2f8c6010e6aba85df699b6d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 06:00:36</sys_updated_on>
+        <table>u_sn_customerservice_case</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=01eababe2f8c6010e6aba85df699b6d2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="demo">00f3f9a62f006010e6aba85df699b6f7</application>
+        <file_path/>
+        <instance_id>3ab5fff0db03ff0007072f17d496191d</instance_id>
+        <instance_name>dev90237</instance_name>
+        <name>sys_sg_data_item_01eababe2f8c6010e6aba85df699b6d2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>case</name><query_condition/><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-28 06:00:36</sys_created_on><sys_id>01eababe2f8c6010e6aba85df699b6d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>case</sys_name><sys_package display_value="demo" source="x_441412_demo">00f3f9a62f006010e6aba85df699b6f7</sys_package><sys_policy/><sys_scope display_value="demo">00f3f9a62f006010e6aba85df699b6f7</sys_scope><sys_update_name>sys_sg_data_item_01eababe2f8c6010e6aba85df699b6d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-28 06:00:36</sys_updated_on><table>u_sn_customerservice_case</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=01eababe2f8c6010e6aba85df699b6d2"/></record_update>]]></payload>
+        <payload_hash>-1513392265</payload_hash>
+        <record_name>case</record_name>
+        <reverted_from/>
+        <source>c8f375ae2f006010e6aba85df699b60b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 06:00:36</sys_created_on>
+        <sys_id>81eababe2f8c6010e6aba85df699b6d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1756dcb3b570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 06:00:36</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>c9eababe258c6010295bd82a754e2bd4</update_guid>
+        <update_guid_history>c9eababe258c6010295bd82a754e2bd4:-1513392265</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 07:21:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>06c7fe10c1fb413e80a44b3fa33c1db9</sys_id>
+        <sys_metadata>01eababe2f8c6010e6aba85df699b6d2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>case</sys_name>
+        <sys_package display_value="demo" source="x_441412_demo">00f3f9a62f006010e6aba85df699b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="demo">00f3f9a62f006010e6aba85df699b6f7</sys_scope>
+        <sys_scope_delete display_value="">73dcae5e2caa4d78896b2b11d454e5c4</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_01eababe2f8c6010e6aba85df699b6d2</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_01eababe2f8c6010e6aba85df699b6d2">81eababe2f8c6010e6aba85df699b6d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 07:21:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
